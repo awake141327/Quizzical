@@ -1,7 +1,6 @@
 .quiz_container {
   display: flex;
   flex-direction: column;
-  /* padding: 0 20%; */
   gap: 40px;
 }
 
