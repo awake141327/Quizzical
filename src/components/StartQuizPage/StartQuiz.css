@@ -1,0 +1,28 @@
+.SQ_container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.SQ_heading {
+  color: #293264;
+  font-size: 31.25px;
+  font-weight: 700;
+}
+
+.SQ_tagline {
+  color: #293264;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.SQ_btn {
+  color: #f5f7fb;
+  font-size: 16px;
+  background-color: #4d5b9e;
+  border-radius: 15px;
+  border: none;
+  padding: 20px 50px;
+  cursor: pointer;
+}

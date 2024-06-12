@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Karla", sans-serif;
+}
+
+.App {
+  padding: 50px 0;
+  background-color: #f5f7fb;
+  background-image: url(assets/blob_blue.png), url(assets/blob_yellow.png);
+  background-repeat: no-repeat;
+  background-position: left bottom, right top;
+  background-size: 250px;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+}
